@@ -156,3 +156,4 @@
 0.0.0.0 www.login.facebook.com
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 mqtt.c10r.facebook.com
